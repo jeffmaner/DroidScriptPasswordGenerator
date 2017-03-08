@@ -1,0 +1,18 @@
+{
+  "minimumWordLength": 4,
+  "maximumWordLength": 8,
+  "numberOfWords": 4,
+  "transformation": "random word CAPITALIZATION",
+  "passwordsToGenerate": 10,
+  "separators": [ "-" ],
+  "prependedDigitsCount": 0,
+  "appendedDigitsCount": 0,
+  "paddingType": "Fixed",
+  "padToLength": 0,
+  "prependedSymbolsCount": 0,
+  "appendedSymbolsCount": 0,
+  "useSeparatorChar": false,
+  "paddingSymbols": [],
+  "paddingSymbol": "",
+  "dictionaryFileUrl": "EN_sample.txt"
+}

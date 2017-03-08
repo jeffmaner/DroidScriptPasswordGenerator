@@ -1,0 +1,20 @@
+{
+  "minimumWordLength": 4,
+  "maximumWordLength": 8,
+  "numberOfWords": 3,
+  "transformation": "alternating WORD case",
+  "passwordsToGenerate": 10,
+  "separators": [ "!", "@", "$", "%", "^", "&", "*", "-", "_", "+", "=", ":",
+      "|", "~", ",", "?", ".", ";", "/" ],
+  "prependedDigitsCount": 2,
+  "appendedDigitsCount": 2,
+  "paddingType": "Fixed",
+  "padToLength": 0,
+  "prependedSymbolsCount": 2,
+  "appendedSymbolsCount": 2,
+  "useSeparatorChar": false,
+  "paddingSymbols": [ "!", "@", "$", "%", "^", "&", "*", "-", "_", "+", "=", ":",
+      "|", "~", ",", "?", ".", ";", "/" ],
+  "paddingSymbol": "/",
+  "dictionaryFileUrl": "EN_sample.txt"
+}
