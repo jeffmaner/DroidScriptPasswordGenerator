@@ -10,9 +10,9 @@ So, this is pretty much what I was after all the long. I wanted to be able to
 generate passwords based on XKCD's ideas, but I wanted to do it all locally on
 my phone, and I wanted to be able to supply my own dictionary.
 
-For reasons unknown to me, I have had no luck with creating GUIs using Real
-Programming Languages that work on Android. It's probably because I'm a
-dinosaur PC programmer, where "dinosaur" modifies "programmer".
+For reasons unknown to me, I have had no luck with creating GUIs that work on
+Android using Real Programming Languages. It's probably because I'm a dinosaur
+PC programmer, where "dinosaur" modifies "programmer".
 
 DroidScript provides a decently simple abstraction to create GUIs on Android.
 Unfortunately, it uses JavaScript. Joy.
