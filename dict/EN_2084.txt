@@ -1,7 +1,8 @@
 # This list was compiled from Nolls' Top 3,000 American English Words found at
 # http://www.manythings.org/vocabulary/lists/l/. I lowercased names and proper
-# pronouns to make entropy calculations easier. I also did a quick scan for
-# duplicates and eliminated two or three. There may be more.
+# pronouns to make entropy calculations easier, and eliminated contractions. I
+# also did a quick scan for duplicates and eliminated two or three. There may be
+# more.
 ability
 able
 aboard
