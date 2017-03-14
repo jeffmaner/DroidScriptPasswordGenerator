@@ -57,6 +57,8 @@ function OnStart() {
   app.AddLayout(layoutConfig);
 
   // Dictionary and Word List.
+  config.dictionaryFileUrl = `${appPath}/dict/${config.dictionaryFileUrl}`;
+
   let layoutWords = app.CreateLayout("linear", "VCenter,FillXY");
   layoutWords.SetVisibility("Hide");
   layoutWords.SetBackColor("#ff000000");
