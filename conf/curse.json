@@ -1,7 +1,7 @@
 {
   "minimumWordLength": 4,
   "maximumWordLength": 8,
-  "numberOfWords": 3,
+  "numberOfWords": 4,
   "transformation": "alternating WORD case",
   "passwordsToGenerate": 10,
   "separators": [ "!", "@", "$", "%", "^", "&", "*", "-", "_", "+", "=", ":",
